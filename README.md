@@ -7,3 +7,4 @@ There are lot of QE when they noticed a bug while testing an application they wi
 - DevOps team will automate the JIRA and GitHub
 
 ---
+##  JIRA API Token
