@@ -1,4 +1,4 @@
-# Python DevOps GitHub - JIRA          
+# Python DevOps GitHub - JIRA           
     
 Automation done for the below scenario:  
 ```
