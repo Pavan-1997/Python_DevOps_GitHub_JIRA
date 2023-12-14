@@ -13,7 +13,7 @@ JIRA ( Template - Scrum | Type - Team-managed )
 
 Go to JIRA dashboard -> Profile -> Manage your account -> Security -> Create and Manage API Token -> Create API token
 
-Use the script create-issue.py
+Use the script `create-issue.py`
 
 ---
 # Implementation
