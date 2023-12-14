@@ -12,3 +12,6 @@ There are lot of QE when they noticed a bug while testing an application they wi
 JIRA ( Template - Scrum | Type - Team-managed )
 
 Go to JIRA dashboard -> Profile -> Manage your account -> Security -> Create and Manage API Token -> Create API token
+
+---
+# Implementation
