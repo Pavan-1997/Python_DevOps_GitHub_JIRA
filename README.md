@@ -20,4 +20,5 @@ Use the python script `create-issue.py` to create an issue in jira dashboard
 
 Use the python scripts `flask_hello.py` and `create_jira.py` to integrate GitHub and Jira
 
+![image](https://github.com/Pavan-1997/Python_DevOps_GitHub_JIRA/assets/32020205/99e842ed-2f0e-4bc3-b730-313d082029b3)
 
