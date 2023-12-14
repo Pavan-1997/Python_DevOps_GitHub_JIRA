@@ -31,4 +31,7 @@ Use the python script `create-issue.py` to create an issue in jira dashboard
 
 ![image](https://github.com/Pavan-1997/Python_DevOps_GitHub_JIRA/assets/32020205/508b2145-0df6-454e-bb64-4c6c4a05706b)
 
-  
+- Below is the Issue Comment given to automate the Jira ticket creation
+
+![image](https://github.com/Pavan-1997/Python_DevOps_GitHub_JIRA/assets/32020205/f5b65e07-2e68-4ad3-807d-d467af66ebde)
+
