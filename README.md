@@ -23,3 +23,6 @@ Use the python script `create-issue.py` to create an issue in jira dashboard
 
 ![image](https://github.com/Pavan-1997/Python_DevOps_GitHub_JIRA/assets/32020205/99e842ed-2f0e-4bc3-b730-313d082029b3)
 
+ - Below is a test connection created by GitHub to Ubuntu server
+  
+![image](https://github.com/Pavan-1997/Python_DevOps_GitHub_JIRA/assets/32020205/971a8f5e-9cf1-40bc-abe4-227c73caf499)
