@@ -18,4 +18,6 @@ Use the python script `create-issue.py` to create an issue in jira dashboard
 ---
 # Implementation
 
-Use the python scripts 
+Use the python scripts `flask_hello.py` and `create_jira.py`
+
+
