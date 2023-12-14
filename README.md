@@ -26,3 +26,9 @@ Use the python script `create-issue.py` to create an issue in jira dashboard
  - Below is a test connection created by GitHub to Ubuntu server
   
 ![image](https://github.com/Pavan-1997/Python_DevOps_GitHub_JIRA/assets/32020205/971a8f5e-9cf1-40bc-abe4-227c73caf499)
+
+- Below is the Ubuntu server running the `flask_hello.py` server
+
+![image](https://github.com/Pavan-1997/Python_DevOps_GitHub_JIRA/assets/32020205/508b2145-0df6-454e-bb64-4c6c4a05706b)
+
+  
