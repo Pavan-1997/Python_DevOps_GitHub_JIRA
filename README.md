@@ -17,3 +17,5 @@ Use the python script `create-issue.py` to create an issue in jira dashboard
 
 ---
 # Implementation
+
+Use the python scripts 
