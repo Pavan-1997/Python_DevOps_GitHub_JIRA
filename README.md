@@ -19,6 +19,11 @@ Go to JIRA dashboard -> Profile -> Manage your account -> Security -> Create and
 Use the python script `create-issue.py` to create an issue in jira dashboard
 
 ---
+# Implementation (Jira Projects Lists)
+ 
+Use the python script `create-issue.py` to create an issue in jira dashboard
+
+---
 # Implementation (GitHub - Jira)
 
  - Use the python scripts `flask_hello.py` and `create_jira.py` to integrate GitHub and Jira
