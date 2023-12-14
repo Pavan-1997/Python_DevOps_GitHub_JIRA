@@ -21,7 +21,7 @@ Use the python script `create-issue.py` to create an issue in jira dashboard
 ---
 # Implementation (Jira Projects Lists)
  
-Use the python script `create-issue.py` to create an issue in jira dashboard
+Use the python script `projects-list.py` lists the projects in jira dashboard
 
 ---
 # Implementation (GitHub - Jira)
